@@ -32,7 +32,7 @@ public class JavaProgramFlow {
 	}
     //non static method
 	public void setInstaVar() {
-		this.instaVar = instaVar;
+		
 		System.out.println("Instance method will be executed:" + instaVar);
 	}
 	
